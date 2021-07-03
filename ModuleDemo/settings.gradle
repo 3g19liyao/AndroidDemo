@@ -1,0 +1,3 @@
+include ':modulemain'
+include ':app'
+rootProject.name = "ModuleDemo"
